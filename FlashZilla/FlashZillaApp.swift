@@ -12,6 +12,8 @@ struct FlashZillaApp: App {
     var body: some Scene {
         WindowGroup {
             ContentView()
+//            TryScencePhase()
+//            TryAccessibility()
         }
     }
 }
